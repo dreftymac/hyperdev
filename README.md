@@ -1,6 +1,8 @@
-## Welcome to the HyperDev BETA
+## hyperdev demo project
 
-Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
+* Click `show` to see the app live.
+* Updates to your code will instantly deploy and update live.
+* Use advanced options to push and pull from github.
 
 HyperDev is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
 
@@ -16,9 +18,3 @@ On the back-end,
 On the front-end,
 - edit `client.js`, `style.css` and `index.html`
 - drag in `assets`, like images or music, to add them to your project
-
-
-Made by Fog Creek
------------------
-
-\ ゜o゜)ノ
