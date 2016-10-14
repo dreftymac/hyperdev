@@ -5,7 +5,7 @@
 var express = require('express');
 var app = express();
 
-// we've started you off with Express, 
+// we've started you off with Express,
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
 
 // http://expressjs.com/en/starter/static-files.html
@@ -28,9 +28,8 @@ app.post("/dreams", function (request, response) {
 
 // Simple in-memory store for now
 var dreams = [
-  "Find and count some sheep",
-  "Climb a really tall mountain",
-  "Wash the dishes"
+  "alpha",
+  "bravo"
   ];
 
 // listen for requests :)
