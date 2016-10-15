@@ -1,5 +1,7 @@
 ## hyperdev demo project
 
+* [https://hyperdev.com](https://hyperdev.com)
+
 * Click `show` to see the app live.
 * Updates to your code will instantly deploy and update live.
 * Use advanced options to push and pull from github.

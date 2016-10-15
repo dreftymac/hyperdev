@@ -1,0 +1,16 @@
+### <beg-file_info>
+### main:
+###   - date: created="Sat, Oct 15, 2016  3:05:28 AM"
+###     last: lastmod="Sat, Oct 15, 2016  3:05:28 AM"
+###     tags: devlog,
+###     dreftymacid: "__dreftymacid__"
+###     filetype: "yaml"
+###     seealso: |
+###         * __seealso__
+###     desc: |
+###         * __desc__
+### <end-file_info>
+
+head:
+
+main:
